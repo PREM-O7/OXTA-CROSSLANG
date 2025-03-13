@@ -1,1 +1,11 @@
+root {
+    -fx-background-color: #121212;
+    -fx-font-family: Arial, sans-serif;
+}
 
+.button {
+    -fx-background-color: #00ffcc;
+    -fx-text-fill: #000;
+    -fx-padding: 10px 20px;
+    -fx-cursor: pointer;
+}
